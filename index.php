@@ -1,0 +1,260 @@
+<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+	
+	<header>
+	<nav>
+	
+		<div class="container">
+			<div id="logo"><img src="image/img1.png"><strong>ibrahim&nbsp;<b>kolawole</b></strong></div>
+		<div class="menu">
+			<ul>
+<li><a href="#" class="">Home</a></li>
+	<li><a href="#" class="about">About</a></li>
+			<li><a href="#" class="portfolio">Portfolio</a></li>
+			<li><a href="#" class="contact">Contact</a></li>
+				<li><a href="#" class="is-active">Get Started</a></li>
+				</ul>		
+			</div>
+		
+		<button class="tumb">
+		<span></span>
+			<span></span>
+			<span></span>
+		
+		</button>
+		</div>	
+		
+	</nav>
+			<div id="hero">
+		 <img src="image/img4.png" class="d-block w-100" alt="first">
+</div>
+		
+		<div class="dropdown_menu">
+		<ul>
+<li><a href="#" class="">Home</a></li>
+	<li><a href="#" class="about">About</a></li>
+			<li><a href="#" class="portfolio">Portfolio</a></li>
+					<li><a href="#" class="contact">Contact</a></li>
+			<li><a href="#" class="is-active">Get Started</a></li>
+				</ul>	
+		
+		</div>
+		
+	</header>
+	
+	
+	<main>
+		<div></div>
+	<div id="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-md-12 col-xs-12">
+		<h1><strong>About</strong></h1>
+	      <h1 class="headi">IBRAHIM KOLAWOLE</h1>
+		   <h1 class="headi-after"></h1>
+		</div>
+	<div class="col-lg-6 col-md-12 col-xs-12 mo">
+		
+	I'm a Passionte full stack developer from ibadan with proficient skill in HTML5, CSS, PHP, JAVASCRIPT, WORDPRESS, BOOTSTRAP, DATABASE, SQL.
+• Volunteering for developing a design system focused on simplicity and efficiency, eliminating inconsistency, and implementing user-friendly designs for the organization.
+•   Works directly with clients to produce appealing and compelling presentations that engaged target audiences.
+•   Develop design for product illustrations, company logos, and internet websites.
+				</div>
+			
+		</div>
+	</div>
+</div>
+		<br>
+		
+		<div id="vision">
+		<h2 class="heading">STRATEGIES</h2>
+			<h2 class="heading-after"></h2>
+			
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-md-6">
+	<div class="bod">
+		<div class="tex"><i class="bi-rocket-takeoff" style="font-size: 2rem; color: black;"></i></div>
+		<div class="bod1">
+		<strong><p>To help every customer have a positive memorable experience.</p></strong>
+		</div>		
+	</div>
+	</div>
+	<div class="col-lg-4 col-md-6">
+	<div class="bod">
+		<div class="tex"><i class="bi-eye-fill" style="font-size: 2rem; color: black;"></i></div>
+		<div class="bod1">
+		<strong><p>To be open, honest and fair.... whatever will do, we do it right, and will do it together.</p></strong>
+		</div>
+		</div>
+</div><div class="col-lg-4 col-md-12">
+	<div class="bod">
+		<div class="tex"><i class="bi-gem" style="font-size: 2rem; color: black;"></i></div>
+		<div class="bod1">
+		<strong><p>To have a positive impart on the lives of our customer and out team.</p></strong>
+		</div>	
+	</div>
+	</div>
+			</div>
+			</div>
+			</div>
+		</div>
+		<br><br><br><br>
+		<h2 class="heading">PORTFOLIO</h2>
+			<h2 class="heading-after"></h2>
+	
+	<section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
+        <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="image/Easytrip.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>EASY<sub>TRIP</sub></h4>
+                <p><a href="#">Visit site</a></p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="image/appertizer.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>APPERTIZER</h4>
+                <p><a href="#">Visit site</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="image/voting.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>ONLINE<sub>VOTING</sub></h4>
+                <p><a href="#">Visit site</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="image/kad.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>KADNA INTEGRATED LTD</h4>
+                <p><a href="#">Visit site</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="image/movic.PNG" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>MOVIC<sub>PORTFOLIO</sub></h4>
+                <p><a href="#">Visit site</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="image/exam.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>EXAM<sub>LORD</sub></h4>
+                <p><a href="#">Visit site</a></p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>	
+<br><br><br>
+		<div id="contact">
+		<h2 class="heading">CONTACT</h2>
+			<h2 class="heading-after"></h2>
+		
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-5">
+            <div class="info">
+              <div class="address">
+                <i class="bi-geo-alt-fill"></i>
+                <h4>Location:</h4>
+                <p>Ajia Road7, Adegbayi Ibadan.</p>
+              </div>
+
+              <div class="email">
+                <i class="bi-envelope-at-fill"></i>
+                <h4>Email:</h4>
+                <p>ibrahimkolawole564@gmail.com</p>
+              </div>
+
+              <div class="phone">
+                <i class="bi-telephone-forward"></i>
+                <h4>Call:</h4>
+                <p>+234 901 6504 151</p>
+              </div>
+
+            </div>
+					</div>
+				<div class="col-lg-7">
+					<div class="form-group">
+					<form action="" method="post">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-12">
+							<div class="row">			
+<div class="col"><input type="text" class="form-control" placeholder="name" required></div>
+<div class="col"><input type="email" class="form-control"  placeholder="email" required></div>
+</div><br>
+                           <div class="row">
+				<div class="col"><input type="text" class="form-control"  placeholder="subjecct" required></div>
+								</div><br>	
+								<div class="row">
+				<div class="col"><textarea name="" cols="100px" rows="7px;" placeholder="message us" class="form-control"></textarea></div>
+						</div>			
+								<div class="row">
+				<div class="col"><button class="btn btn-dark" type="submit" name="submit" style="width:100px; margin-top: 10px">submit</button></div>
+						</div>			
+						</div>
+						</div>
+					</div>
+					</form>
+					</div>
+		</div>	
+		</div>
+	</div>
+		</div>
+		
+	</main><br>
+<?php include "footer.php" ?>
+	
+	
+	
+	<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-0973388b-1748-4774-9aad-4adb90ebd3ed"></div>
+	
+	<script src="js/bootstrap.min.js"></script>
+	<script>
+	const tumbBtn = document.querySelector('.tumb')
+	const tumbIcon = document.querySelector('.tumb i')
+	const dropDownMenu = document.querySelector('.dropdown_menu')
+	
+	tumbBtn.onclick = function(){
+		dropDownMenu.classList.toggle('open')
+		const isOpen = dropDownMenu.classList.contains('open')
+		
+		tumbIcon.classList = isOpen
+		
+	}
+	
+	
+	</script>
+	
+</body>
+</html>
